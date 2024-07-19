@@ -1,6 +1,7 @@
 * body {
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: border-box;background-image: url(./imagenes/FONDO.jpg);
+  background-size: 100%;
   }
   
   /*PORTADA*/
@@ -26,7 +27,7 @@
       justify-content: center;
       gap: 1em;
       padding: 0.8em;
-      margin-top: 8%;
+      margin-top: 15%;
   }
   .cr-time > span {
       font-size: 15px;
@@ -73,11 +74,14 @@
 .foto1{
   width: 85%;
   margin-left: 8%;
-  margin-top: -1525%;
+  margin-top: 10%;
+
 
 }
 
-
+.cajanumeros{
+  background-color: #ffffff;
+}
 
 
 
@@ -92,7 +96,8 @@ margin-left: 68%;
       font-family: 'Great Vibes', cursive;
        font-size: 25px;
        color: #888888;
-       margin-top: -680%;
+       margin-top: 10%;
+     
   }
   
   .linea{
